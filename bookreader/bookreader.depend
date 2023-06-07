@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658281186 source:c:\users\lenovo\documents\code\.vscode\bookreader\main.cpp
+	<iostream>
+	<ctime>
+	<bits/stdc++.h>
+
